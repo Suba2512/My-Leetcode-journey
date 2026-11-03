@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Suba2512/My-Leetcode-journey/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/Suba2512/My-Leetcode-journey/tree/master/0724-find-pivot-index) |
 | [0804-unique-morse-code-words](https://github.com/Suba2512/My-Leetcode-journey/tree/master/0804-unique-morse-code-words) |
 | [1480-running-sum-of-1d-array](https://github.com/Suba2512/My-Leetcode-journey/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Suba2512/My-Leetcode-journey/tree/master/1732-find-the-highest-altitude) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Suba2512/My-Leetcode-journey/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/Suba2512/My-Leetcode-journey/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Suba2512/My-Leetcode-journey/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Suba2512/My-Leetcode-journey/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
