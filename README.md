@@ -17,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Suba2512/My-Leetcode-journey/tree/master/0013-roman-to-integer) |
 | [0560-subarray-sum-equals-k](https://github.com/Suba2512/My-Leetcode-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0804-unique-morse-code-words](https://github.com/Suba2512/My-Leetcode-journey/tree/master/0804-unique-morse-code-words) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/Suba2512/My-Leetcode-journey/tree/master/1935-maximum-number-of-words-you-can-type) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Suba2512/My-Leetcode-journey/tree/master/0013-roman-to-integer) |
 | [0804-unique-morse-code-words](https://github.com/Suba2512/My-Leetcode-journey/tree/master/0804-unique-morse-code-words) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/Suba2512/My-Leetcode-journey/tree/master/1935-maximum-number-of-words-you-can-type) |
 ## Prefix Sum
 |  |
 | ------- |
