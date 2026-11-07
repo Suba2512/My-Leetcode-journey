@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Suba2512/My-Leetcode-journey/tree/master/0013-roman-to-integer) |
 | [0804-unique-morse-code-words](https://github.com/Suba2512/My-Leetcode-journey/tree/master/0804-unique-morse-code-words) |
+| [1844-replace-all-digits-with-characters](https://github.com/Suba2512/My-Leetcode-journey/tree/master/1844-replace-all-digits-with-characters) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Suba2512/My-Leetcode-journey/tree/master/1935-maximum-number-of-words-you-can-type) |
 ## Prefix Sum
 |  |
