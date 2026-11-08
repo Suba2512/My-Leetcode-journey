@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Suba2512/My-Leetcode-journey/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/Suba2512/My-Leetcode-journey/tree/master/1929-concatenation-of-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Suba2512/My-Leetcode-journey/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3925-concatenate-array-with-reverse](https://github.com/Suba2512/My-Leetcode-journey/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Suba2512/My-Leetcode-journey/tree/master/1929-concatenation-of-array) |
+| [3925-concatenate-array-with-reverse](https://github.com/Suba2512/My-Leetcode-journey/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
 |  |
 | ------- |
