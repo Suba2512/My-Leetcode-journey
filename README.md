@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Suba2512/My-Leetcode-journey/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Suba2512/My-Leetcode-journey/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/Suba2512/My-Leetcode-journey/tree/master/1929-concatenation-of-array) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Suba2512/My-Leetcode-journey/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,5 +42,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Suba2512/My-Leetcode-journey/tree/master/0013-roman-to-integer) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Suba2512/My-Leetcode-journey/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3870-count-commas-in-range](https://github.com/Suba2512/My-Leetcode-journey/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->
