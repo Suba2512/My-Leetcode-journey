@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Suba2512/My-Leetcode-journey/tree/master/0724-find-pivot-index) |
 | [0804-unique-morse-code-words](https://github.com/Suba2512/My-Leetcode-journey/tree/master/0804-unique-morse-code-words) |
 | [1480-running-sum-of-1d-array](https://github.com/Suba2512/My-Leetcode-journey/tree/master/1480-running-sum-of-1d-array) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Suba2512/My-Leetcode-journey/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1732-find-the-highest-altitude](https://github.com/Suba2512/My-Leetcode-journey/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/Suba2512/My-Leetcode-journey/tree/master/1929-concatenation-of-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Suba2512/My-Leetcode-journey/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Suba2512/My-Leetcode-journey/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1929-concatenation-of-array](https://github.com/Suba2512/My-Leetcode-journey/tree/master/1929-concatenation-of-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/Suba2512/My-Leetcode-journey/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
@@ -46,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Suba2512/My-Leetcode-journey/tree/master/0013-roman-to-integer) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Suba2512/My-Leetcode-journey/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3870-count-commas-in-range](https://github.com/Suba2512/My-Leetcode-journey/tree/master/3870-count-commas-in-range) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Suba2512/My-Leetcode-journey/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Ordered Set
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Suba2512/My-Leetcode-journey/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 <!---LeetCode Topics End-->
