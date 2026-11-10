@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Suba2512/My-Leetcode-journey/tree/master/1929-concatenation-of-array) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Suba2512/My-Leetcode-journey/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Suba2512/My-Leetcode-journey/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3693-climbing-stairs-ii](https://github.com/Suba2512/My-Leetcode-journey/tree/master/3693-climbing-stairs-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/Suba2512/My-Leetcode-journey/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Suba2512/My-Leetcode-journey/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3693-climbing-stairs-ii](https://github.com/Suba2512/My-Leetcode-journey/tree/master/3693-climbing-stairs-ii) |
 <!---LeetCode Topics End-->
