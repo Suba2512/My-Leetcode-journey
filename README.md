@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Suba2512/My-Leetcode-journey/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1732-find-the-highest-altitude](https://github.com/Suba2512/My-Leetcode-journey/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/Suba2512/My-Leetcode-journey/tree/master/1929-concatenation-of-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Suba2512/My-Leetcode-journey/tree/master/2574-left-and-right-sum-differences) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Suba2512/My-Leetcode-journey/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Suba2512/My-Leetcode-journey/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3693-climbing-stairs-ii](https://github.com/Suba2512/My-Leetcode-journey/tree/master/3693-climbing-stairs-ii) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Suba2512/My-Leetcode-journey/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Suba2512/My-Leetcode-journey/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Suba2512/My-Leetcode-journey/tree/master/1732-find-the-highest-altitude) |
+| [2574-left-and-right-sum-differences](https://github.com/Suba2512/My-Leetcode-journey/tree/master/2574-left-and-right-sum-differences) |
 ## Simulation
 |  |
 | ------- |
