@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Suba2512/My-Leetcode-journey/tree/master/2574-left-and-right-sum-differences) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Suba2512/My-Leetcode-journey/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Suba2512/My-Leetcode-journey/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/Suba2512/My-Leetcode-journey/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3693-climbing-stairs-ii](https://github.com/Suba2512/My-Leetcode-journey/tree/master/3693-climbing-stairs-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/Suba2512/My-Leetcode-journey/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Suba2512/My-Leetcode-journey/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Suba2512/My-Leetcode-journey/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Suba2512/My-Leetcode-journey/tree/master/2574-left-and-right-sum-differences) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/Suba2512/My-Leetcode-journey/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Simulation
 |  |
 | ------- |
