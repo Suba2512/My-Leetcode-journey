@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Suba2512/My-Leetcode-journey/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Suba2512/My-Leetcode-journey/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/Suba2512/My-Leetcode-journey/tree/master/1732-find-the-highest-altitude) |
+| [2485-find-the-pivot-integer](https://github.com/Suba2512/My-Leetcode-journey/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Suba2512/My-Leetcode-journey/tree/master/2574-left-and-right-sum-differences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Suba2512/My-Leetcode-journey/tree/master/3364-minimum-positive-sum-subarray) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Suba2512/My-Leetcode-journey/tree/master/3427-sum-of-variable-length-subarrays) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Suba2512/My-Leetcode-journey/tree/master/0013-roman-to-integer) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Suba2512/My-Leetcode-journey/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2485-find-the-pivot-integer](https://github.com/Suba2512/My-Leetcode-journey/tree/master/2485-find-the-pivot-integer) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Suba2512/My-Leetcode-journey/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Suba2512/My-Leetcode-journey/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3870-count-commas-in-range](https://github.com/Suba2512/My-Leetcode-journey/tree/master/3870-count-commas-in-range) |
