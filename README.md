@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Suba2512/My-Leetcode-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Suba2512/My-Leetcode-journey/tree/master/0724-find-pivot-index) |
 | [0804-unique-morse-code-words](https://github.com/Suba2512/My-Leetcode-journey/tree/master/0804-unique-morse-code-words) |
+| [0875-koko-eating-bananas](https://github.com/Suba2512/My-Leetcode-journey/tree/master/0875-koko-eating-bananas) |
 | [1480-running-sum-of-1d-array](https://github.com/Suba2512/My-Leetcode-journey/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Suba2512/My-Leetcode-journey/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Suba2512/My-Leetcode-journey/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/Suba2512/My-Leetcode-journey/tree/master/3364-minimum-positive-sum-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/Suba2512/My-Leetcode-journey/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
