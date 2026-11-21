@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Suba2512/My-Leetcode-journey/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1732-find-the-highest-altitude](https://github.com/Suba2512/My-Leetcode-journey/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/Suba2512/My-Leetcode-journey/tree/master/1929-concatenation-of-array) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Suba2512/My-Leetcode-journey/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2574-left-and-right-sum-differences](https://github.com/Suba2512/My-Leetcode-journey/tree/master/2574-left-and-right-sum-differences) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Suba2512/My-Leetcode-journey/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Suba2512/My-Leetcode-journey/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -89,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/Suba2512/My-Leetcode-journey/tree/master/0875-koko-eating-bananas) |
+## Sorting
+|  |
+| ------- |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Suba2512/My-Leetcode-journey/tree/master/2545-sort-the-students-by-their-kth-score) |
+## Matrix
+|  |
+| ------- |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Suba2512/My-Leetcode-journey/tree/master/2545-sort-the-students-by-their-kth-score) |
 <!---LeetCode Topics End-->
